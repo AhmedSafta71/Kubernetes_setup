@@ -1,8 +1,5 @@
 # Kubernetes_setup
-Creating a Local Kubernetes Cluster with Vagrant
-# vagrant-kubernetes-cluster
-
-Kubernetes cluster automation via Vagrant
+Automating local Kubernetes cluster creation with Vagrant
 
 # Prerequisites
 
